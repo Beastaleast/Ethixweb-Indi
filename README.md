@@ -307,9 +307,9 @@ Other hosting providers may be used if they meet the assessment requirements.
 
 ### Live application
 
-- **Website:** `<ADD_YOUR_DEPLOYED_FRONTEND_URL>`
-- **Backend API:** `<ADD_YOUR_DEPLOYED_BACKEND_URL>`
-- **GitHub repository:** `<ADD_YOUR_PUBLIC_GITHUB_REPOSITORY_URL>`
+
+- **GitHub repository:** `https://github.com/Beastaleast/Ethixweb-Indi.git`
+- **Live Demo:** `ethixweb-indi.vercel.app`
 
 Replace these placeholders with verified URLs after deployment.
 
