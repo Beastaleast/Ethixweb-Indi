@@ -311,7 +311,37 @@ Other hosting providers may be used if they meet the assessment requirements.
 - **GitHub repository:** https://github.com/Beastaleast/Ethixweb-Indi.git
 - **Live Demo:** https://ethixweb-indi.vercel.app/
 
-Replace these placeholders with verified URLs after deployment.
+
+## PageSpeed Insights Results
+
+The Ethixweb website was evaluated using Google PageSpeed Insights on both desktop and mobile devices.
+
+### Desktop Performance
+
+![Ethixweb Desktop PageSpeed Insights](screenshot/ethixweb-desktop.png)
+
+**Scores:**
+- Performance: 99
+- Accessibility: 94
+- Best Practices: 100
+- SEO: 82
+
+### Mobile Performance
+
+![Ethixweb Mobile PageSpeed Insights](screenshot/ethixweb-mobile.png)
+
+**Scores:**
+- Performance: 91
+- Accessibility: 95
+- Best Practices: 100
+- SEO: 82
+
+**Live Website:** [Ethixweb](https://ethixweb-indi.vercel.app/)
+
+**Testing Tool:** [Google PageSpeed Insights](https://pagespeed.web.dev/)
+
+*Scores are based on the attached test screenshots and may vary between runs.*
+
 
 ## Project Structure
 
