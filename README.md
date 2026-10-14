@@ -308,8 +308,8 @@ Other hosting providers may be used if they meet the assessment requirements.
 ### Live application
 
 
-- **GitHub repository:** `https://github.com/Beastaleast/Ethixweb-Indi.git`
-- **Live Demo:** `ethixweb-indi.vercel.app`
+- **GitHub repository:** https://github.com/Beastaleast/Ethixweb-Indi.git
+- **Live Demo:** ethixweb-indi.vercel.app
 
 Replace these placeholders with verified URLs after deployment.
 
