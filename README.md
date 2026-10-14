@@ -309,7 +309,7 @@ Other hosting providers may be used if they meet the assessment requirements.
 
 
 - **GitHub repository:** https://github.com/Beastaleast/Ethixweb-Indi.git
-- **Live Demo:** ethixweb-indi.vercel.app
+- **Live Demo:** https://ethixweb-indi.vercel.app/
 
 Replace these placeholders with verified URLs after deployment.
 
